@@ -1,0 +1,2 @@
+model,accuracy,macro_f1,test_samples,misclassified_samples
+Linear SVM Balanced,0.82,0.7803400171523905,500,90

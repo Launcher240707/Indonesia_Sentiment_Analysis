@@ -1,0 +1,46 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Data
+data/raw/
+data/processed/
+
+# Model artifacts
+models/*.joblib
+models/*.pkl
+models/**/*.joblib
+models/**/*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Ignore all trained model files
+*.joblib
+*.pkl
+
+# Raw-text analysis reports: keep local, publish sanitized versions
+/results/reports/error_analysis.csv
+/results/reports/error_analysis_balanced.csv
+/results/reports/model_disagreements.csv
+/results/reports/neutral_errors_balanced.csv
+/results/reports/neutral_error_feature_contributions.csv
+/results/reports/neutral_test_predictions.csv
+/results/reports/ngram_prediction_comparison.csv
+/results/reports/ngram_test_errors.csv
+/results/reports/ngram_test_predictions.csv
+/results/reports/prediction_comparison.csv
+/results/reports/shared_errors.csv

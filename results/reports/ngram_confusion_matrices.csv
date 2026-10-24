@@ -1,0 +1,19 @@
+ngram_range,actual,predicted,count
+"(1, 1)",negative,negative,331
+"(1, 1)",negative,neutral,9
+"(1, 1)",negative,positive,54
+"(1, 1)",neutral,negative,22
+"(1, 1)",neutral,neutral,98
+"(1, 1)",neutral,positive,11
+"(1, 1)",positive,negative,59
+"(1, 1)",positive,neutral,18
+"(1, 1)",positive,positive,658
+"(1, 2)",negative,negative,345
+"(1, 2)",negative,neutral,8
+"(1, 2)",negative,positive,41
+"(1, 2)",neutral,negative,20
+"(1, 2)",neutral,neutral,99
+"(1, 2)",neutral,positive,12
+"(1, 2)",positive,negative,39
+"(1, 2)",positive,neutral,11
+"(1, 2)",positive,positive,685

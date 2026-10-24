@@ -1,0 +1,13 @@
+model,actual,predicted,samples
+balanced,positive,negative,29
+balanced,neutral,negative,27
+balanced,neutral,positive,13
+balanced,positive,neutral,11
+balanced,negative,positive,6
+balanced,negative,neutral,4
+baseline,neutral,negative,29
+baseline,positive,negative,26
+baseline,neutral,positive,19
+baseline,positive,neutral,8
+baseline,negative,positive,7
+baseline,negative,neutral,4

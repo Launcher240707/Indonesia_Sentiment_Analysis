@@ -1,0 +1,2 @@
+experiment,accuracy,macro_f1,train_samples,validation_samples
+Linear SVM Balanced,0.8960317460317461,0.863305684851919,10984,1260

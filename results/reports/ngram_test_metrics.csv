@@ -1,0 +1,2 @@
+model,accuracy,macro_f1,test_samples,removed_training_overlap_rows,vocabulary_size,negative_precision,negative_recall,negative_f1,neutral_precision,neutral_recall,neutral_f1,positive_precision,positive_recall,positive_f1
+"LinearSVC balanced TF-IDF (1,2)",0.82,0.7803400171523905,500,16,39377,0.776,0.9509803921568627,0.8546255506607929,0.7619047619047619,0.5454545454545454,0.6357615894039735,0.8983957219251337,0.8076923076923077,0.850632911392405

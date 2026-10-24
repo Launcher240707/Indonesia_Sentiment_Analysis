@@ -1,0 +1,5 @@
+transition,samples,percentage
+both_correct,401,80.2
+balanced_fixed_error,9,1.7999999999999998
+balanced_introduced_error,6,1.2
+both_wrong,84,16.8
